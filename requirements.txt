@@ -1,0 +1,6 @@
+flask
+requests
+python-dotenv
+websocket-client
+gunicorn
+tzdata
